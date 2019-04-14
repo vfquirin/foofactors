@@ -16,4 +16,5 @@ URL: https://github.com/vfquirin/foofactors
 BugReports: https://github.com/vfquirin/foofactors/issues
 Imports:
   forcats
-  
+Suggests: 
+    testthat
